@@ -1,4 +1,4 @@
-# Understanding Proxy Servers – A Backend Mastery Step
+# Understanding Proxy Servers 
 
 ## Introduction
 
