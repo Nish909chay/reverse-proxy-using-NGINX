@@ -2,8 +2,8 @@
 
 ## Introduction
 
-Welcome to **Understanding Proxy Servers – A Backend Mastery Step**! This project is part of my backend development learning journey. Here, I explore the core concepts and hands-on logic behind proxy servers, including both forward and reverse proxies. If you're curious about how requests are routed, filtered, or secured in modern backend systems, you're in the right place!
-
+Project Name: Understanding Proxy Servers – Reverse Proxy Servers
+Objective: To explore the implementation and working of forward and reverse proxy servers as part of backend system design fundamentals.
 ## What is a Proxy Server?
 
 A **proxy server** acts as an intermediary between a client (like your browser) and another server (like a website or API). Instead of connecting directly, your requests go through the proxy, which can add security, caching, logging, or even change the request/response.
